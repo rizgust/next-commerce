@@ -1,0 +1,9 @@
+{
+  "provider": "local",
+  "features": {
+    "wishlist": false,
+    "cart": true,
+    "search": true,
+    "customerAuth": false
+  }
+}
